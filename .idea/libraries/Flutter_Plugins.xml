@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/code/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-3.0.1" />
+      <root url="file://$USER_HOME$/Desktop/code/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/geolocation-0.2.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
